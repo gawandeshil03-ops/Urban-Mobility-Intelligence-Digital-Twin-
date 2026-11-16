@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚖 Enterprise Mobility Intelligence
+# 🚖 Urban Mobility Intelligence & Digital Twin	
 **Simple, Data-Driven Fleet Analytics & Urban Policy Simulator**
 
 **Snowflake** • **Python** • **Power BI**
