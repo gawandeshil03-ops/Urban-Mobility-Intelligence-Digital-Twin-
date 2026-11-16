@@ -3,10 +3,7 @@
 # 🚖 Enterprise Mobility Intelligence
 **Simple, Data-Driven Fleet Analytics & Urban Policy Simulator**
 
-[![Snowflake](https://shields.io)](#)
-[![Python](https://shields.io)](#)
-[![Power BI](https://shields.io)](#)
-
+**Snowflake** • **Python** • **Power BI**
 *Tracking city taxi & ride-share demand, fleet supply, and "what-if" policy outcomes.*
 
 </div>
